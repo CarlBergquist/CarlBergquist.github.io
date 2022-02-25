@@ -1,1 +1,44 @@
+body {
+   background-image: url("https://static.vecteezy.com/system/resources/thumbnails/001/849/433/small/simple-and-clean-black-background-free-vector.jpg");
+   background-repeat: no-repeat;
+   background-size: 500px 2000px;
+   color: rgb(216, 211, 300);
+   font-family: Arial, Garamond, sans-serif;
+   margin: 7% 5%;
+  
+}
 
+.Exp {
+  text-align: center;
+  text-transform: uppercase;
+  border: 2px solid rgb(0, 226, 255 );
+  background-color: rgb(139, 137, 137);
+  color: rgb(73, 74, 75);
+    
+}
+
+h1 {
+  font-family: Courier New;
+  border-bottom: 2px solid;
+}
+
+h5, h6{
+  margin: 0;
+  padding: 
+}
+
+h4 {
+  border-bottom: 2px solid;
+  border-width: thin;
+}
+
+.contents {
+  font-size: 14px;
+}
+
+img {
+  width: 22%;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;  
+}
